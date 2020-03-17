@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87871120391",
+    "firebase_url": "https://baspi-b1945.firebaseio.com",
+    "project_id": "baspi-b1945",
+    "storage_bucket": "baspi-b1945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87871120391:android:7a3c6f6ea86997c1a1f6a2",
+        "android_client_info": {
+          "package_name": "com.example.leon.baspi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87871120391-mdajegcscn9d3d97k2dmucp9tt4ev0ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leon.baspi",
+            "certificate_hash": "4d9e2fccfbd209a121c7c37e334aa431abea4e1e"
+          }
+        },
+        {
+          "client_id": "87871120391-f2t68ctnbq8oen2t6kc0ka8cc60v1knv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsXyodjzZ7PZsiKfrULw3YkcjQ_txGPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87871120391-f2t68ctnbq8oen2t6kc0ka8cc60v1knv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
